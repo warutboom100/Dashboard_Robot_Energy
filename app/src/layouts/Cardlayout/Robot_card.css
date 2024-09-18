@@ -1,0 +1,47 @@
+
+.robot-card {
+    border-radius: 30px;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+}
+
+.robot-image-container {
+    text-align: center;
+   
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+   
+}
+
+.axis-progress {
+    width: 100%;
+}
+
+.axis-progress-bar {
+    margin-bottom: 10px;
+}
+
+.axis-label {
+    font-weight: bold;
+    font-size: 0.65rem;
+    opacity: 0.8;
+}
+
+.progress.axis-progress-container {
+    height: 16px;
+    background-color: #343a40;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 8px;
+    transition: width 0.5s ease;
+}
+

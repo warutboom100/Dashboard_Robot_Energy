@@ -1,0 +1,19 @@
+@import "../../vars.css";
+
+
+.dashboard-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+    color: var(--color-text);
+    
+}
+
+.dashboard-text {
+    font-size: 16px;
+    color: #6c757d;
+}
+
+
+
+
