@@ -1,12 +1,9 @@
 {
-  "homepage": "https://warutboom100.github.io/deploy",
   "name": "app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d deploy",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
